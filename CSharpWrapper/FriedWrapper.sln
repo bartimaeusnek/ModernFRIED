@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriedWrapper", "FriedWrapper\FriedWrapper.csproj", "{7C95D90B-B547-4AE6-9030-7DE6542AC33E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriedWrapper.Test", "FriedWrapper.Test\FriedWrapper.Test.csproj", "{61A1CBA9-DDAC-41DA-9732-F8DDDE9EE684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C95D90B-B547-4AE6-9030-7DE6542AC33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C95D90B-B547-4AE6-9030-7DE6542AC33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C95D90B-B547-4AE6-9030-7DE6542AC33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C95D90B-B547-4AE6-9030-7DE6542AC33E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61A1CBA9-DDAC-41DA-9732-F8DDDE9EE684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A1CBA9-DDAC-41DA-9732-F8DDDE9EE684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A1CBA9-DDAC-41DA-9732-F8DDDE9EE684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A1CBA9-DDAC-41DA-9732-F8DDDE9EE684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

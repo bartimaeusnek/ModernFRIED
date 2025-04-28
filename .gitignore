@@ -1,0 +1,12 @@
+.idea/
+cmake-*/
+build/
+
+**/.idea/
+**/bin/
+**/obj/
+
+test_image.png
+global.json
+*.user
+*.dll
