@@ -1,0 +1,10 @@
+## ModernFRIED
+Farbrausch's FRIED Library adjusted to compile to modern x64.  
+This repository also includes a C# wrapper, so it can be used with .NET8  
+
+## Changes made:  
+- Custom ASM replaced with C/C++ code
+- FileHeader adjusted (replaced int32 with int8 in some places to shorten the file size)
+- replaced custom alias types in code with cstdint types (e.g. sS16 -> int16_t, sU8 -> uint8_t, etc.)
+- added a command line tool to fry/unfry images
+- added a simple roundtrip test
